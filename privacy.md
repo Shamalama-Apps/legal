@@ -38,7 +38,7 @@ Because we do not hold any personal data about you, UK GDPR rights such as acces
 
 ## Contact
 
-Questions about this policy: **[support@shamalama.co.uk](mailto:support@shamalama.co.uk)**
+Questions about this policy: **[vanessa.latchem@outlook.com](mailto:vanessa.latchem@outlook.com)**
 
 ## Changes
 
