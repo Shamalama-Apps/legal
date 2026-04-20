@@ -9,3 +9,4 @@ Public legal documents for apps made by **Shamalama** (Vanessa Latchem-Smith, so
 ## Can Eat, Will Eat
 
 - [Privacy policy](privacy.html)
+- [Support](support.html)
