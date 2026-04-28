@@ -10,3 +10,7 @@ Public legal documents for apps made by **Shamalama** (Vanessa Latchem-Smith, so
 
 - [Privacy policy](privacy.html)
 - [Support](support.html)
+
+## Crossways
+
+- [Privacy policy](crossways-privacy.html)
