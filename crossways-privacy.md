@@ -59,7 +59,7 @@ Data is stored in Google Firebase, which applies industry-standard security cont
 
 ## Contact
 
-Questions about this policy: **[shamalama-app@outlook.com](mailto:shamalama-app@outlook.com)**
+Questions about this policy: **[[info@shamalama.co.uk](mailto:[info@shamalama.co.uk)**
 
 ## Changes
 
