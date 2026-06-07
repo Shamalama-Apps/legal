@@ -10,7 +10,7 @@ Can Eat, Will Eat is made by **Shamalama** (Vanessa Latchem-Smith, sole trader, 
 
 The best way to reach us is by email:
 
-**[vanessa.latchem@outlook.com](mailto:vanessa.latchem@outlook.com)**
+**[info@shamalama.co.uk](mailto:[info@shamalama.co.uk)**
 
 We aim to reply within a few working days.
 
