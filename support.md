@@ -10,7 +10,7 @@ Can Eat, Will Eat is made by **Shamalama** (Vanessa Latchem-Smith, sole trader, 
 
 The best way to reach us is by email:
 
-**[info@shamalama.co.uk](mailto:[info@shamalama.co.uk)**
+**[info@shamalama.co.uk](mailto:info@shamalama.co.uk)**
 
 We aim to reply within a few working days.
 
@@ -35,4 +35,4 @@ Can Eat, Will Eat is a meal idea tool for people with sensory food preferences a
 
 ## Privacy
 
-Your profile, the meals you've added, and your interaction history all live on your device. Nothing leaves it. See the [privacy policy](privacy.html) for details.
+Your profile, the meals you've added, and your interaction history all live on your device. Nothing leaves it. See the [privacy policy](https://shamalama.co.uk/legal/can-eat-will-eat/privacy/) for details.

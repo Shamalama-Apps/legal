@@ -8,7 +8,7 @@ Public legal documents for apps made by **Shamalama** (Vanessa Latchem-Smith, so
 
 ## Can Eat, Will Eat
 
-- [Privacy policy](privacy.html)
+- [Privacy policy](https://shamalama.co.uk/legal/can-eat-will-eat/privacy/)
 - [Support](support.html)
 
 ## Crossways
